@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khleedavid, currently a Masters student in Computing at the National University of Singapore
+- 👋 Hi, I’m [@khleedavid](https://khleedavid.vercel.app), currently a Research Engineer at the National University of Singapore
 - 👀 I’m interested in robotics, sensors, and integrating sensors with robots for intelligent control
 - 🌱 I’m currently learning how to design and test sensing systems
 - 💞️ I’m looking to collaborate on robotics applications for tactile sensing
