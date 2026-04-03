@@ -1,7 +1,7 @@
-- 👋 Hi, I’m [@khleedavid](https://khleedavid.vercel.app), currently a Research Engineer at the National University of Singapore
+- 👋 Hi, I’m [@khleedavid](https://khleedavid.vercel.app), currently a Robotics and Automation Engineer. 
 - 👀 I’m interested in robotics, sensors, and integrating sensors with robots for intelligent control
-- 🌱 I’m currently learning how to design and test sensing systems
-- 💞️ I’m looking to collaborate on robotics applications for tactile sensing
+- 🌱 I’m currently designing industrial robotic systems for machine repair applications
+- 💞️ I’m looking to collaborate on implementing adaptive controls for industrial robotics
 - 📫 How to reach me: khleedavid@gmail.com
 
 <!---
